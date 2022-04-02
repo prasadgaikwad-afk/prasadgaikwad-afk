@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Your Profile
-linkedin.com/in/prasad-gaikwad-026b95212
+ https://www.linkedin.com/in/prasad-gaikwad-026b95212/
 
 * Phone
  +91 950-360-1657 (Mobile)
