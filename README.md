@@ -15,10 +15,11 @@
 - Your Profile
 linkedin.com/in/prasad-gaikwad-026b95212
 
-Phone
-+91 950-360-1657 (Mobile)
-Email
-pprasad.gaikwad50@gmail.com
+* Phone
+ +91 950-360-1657 (Mobile)
+
+* Email
+ pprasad.gaikwad50@gmail.com
 
 <!---
 prasadgaikwad-afk/prasadgaikwad-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
