@@ -12,7 +12,7 @@
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Your Profile
+- LinkedIn
  https://www.linkedin.com/in/prasad-gaikwad-026b95212/
 
 * Phone
