@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @prasadgaikwad-afk
 - 👀 I’m interested in ...
-* Languages: Python, Scala
-* Databases: MySQL, MongoDB
-* Machine Leaning, Deep Learning ,NLP(NLTK)  
-* Hadoop, Apache Airflow, Apache Spark, HIVE, HBase, PySpark
-* Data Visualization Tools: PowerBI, Pandas, MatplotLib, Seaborn
-* Hands-on experience with Tableau, Core Java, and Cloud computing
+* Languages: Python, Scala.
+* Databases: MySQL, MongoDB.
+* Machine Leaning, Deep Learning ,NLP(NLTK).
+* Hadoop, Apache Airflow, Apache Spark, HIVE, HBase, PySpark.
+* Data Visualization Tools: PowerBI, Pandas, MatplotLib, Seaborn.
+* Hands-on experience with Tableau, Core Java, and Cloud computing.
+* OS: Windows, Ubuntu.
 
 - 🌱 I’m currently learning ...
 - Post Graduation Diploma Program in Big Data Analytics from Center for Development in Advanced Computing (CDAC) ACTS Delhi
