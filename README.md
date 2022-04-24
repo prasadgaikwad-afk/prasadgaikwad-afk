@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasadgaikwad-afk
 - 👀 I’m interested in ...
-* Languages: Python, R 
+* Languages: Python, Scala
 * Databases: MySQL, MongoDB
 * Machine Leaning, Deep Learning ,NLP(NLTK)  
 * Hadoop, Apache Airflow, Apache Spark, HIVE, HBase, PySpark
